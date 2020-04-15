@@ -9,4 +9,4 @@ Detect lane lines in images using Python and OpenCV.
 
 The complete project consists of two files: a Jupyter notebook for project code [code](https://github.com/zardosht/udacity_selfdriving_car/blob/master/P1_Finding_Lane_Lines/P1.ipynb) and a file containing a brief write up explaining the solution [writeup](https://github.com/zardosht/udacity_selfdriving_car/blob/master/P1_Finding_Lane_Lines/writeup_template.md). The writeup describes the solution pipelines, shortcommings, and suggestions for improvement. 
 
-The requirements to pass the project: [project rubric](https://review.udacity.com/#!/rubrics/322/view)
+The requirements to pass the project: [project rubric](./P1_Project_Rubric.pdf)
